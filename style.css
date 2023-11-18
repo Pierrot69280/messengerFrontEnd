@@ -1,0 +1,83 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgba(0, 0, 0, 0.76);
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.login {
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #6f92bb;
+    border-radius: 5px;
+}
+
+.login h2 {
+    text-align: center;
+    color: #6f92bb;
+}
+
+.login input {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.boutonLogin {
+    width: 100%;
+    margin-top: 15px;
+    background-color: #6f92bb;
+    color: #ffffff;
+}
+
+.form-message {
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #6f92bb;
+    border-radius: 5px;
+}
+
+.form-message input {
+    width: 100%;
+    margin-top: 10px;
+    border: 1px solid #ced4da;
+}
+
+.boutonSend {
+    width: 100%;
+    margin-top: 15px;
+    background-color: #6f92bb;
+    color: #ffffff;
+}
+
+.message-bubble {
+    display: flex;
+    background-color: #6f92bb;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    max-width: 70%;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.form-control {
+    margin-top: 5cm;
+}
+
+.login {
+    background-color: rgba(0, 0, 0, 0.76);
+    width: 100%;
+    box-sizing: border-box;
+    max-width: 700px;
+    margin: auto;
+}
